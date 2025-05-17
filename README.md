@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BlazeTasks
 
-## Getting Started
+Welcome to BlazeTasks!  
+BlazeTasks is your ultimate to-do app designed to help you stay organized and achieve more. Whether you're managing personal tasks or collaborating with a team, BlazeTasks makes it easy to stay on top of your goals.
 
-First, run the development server:
+© 2025 BlazeTasks. All rights reserved.
+
+---
+
+## Project Overview
+
+---
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
+### Prerequisites
+
+- Node.js (version v22.14.0 or higher)  
+- npm or yarn package manager
+
+### Installation
+
 
 ```bash
+# 1. Clone the repository:
+
+git clone https://github.com/Sansal2/To-Do-App.git
+
+
+# 2. Navigate to the project folder:
+
+cd To-Do-App
+
+
+# 3. Install dependencies:
+
+npm install
+# or
+yarn install
+
+
+# 4. Run the development server:
+
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# 5. Open your browser and visit:
+http://localhost:3000
